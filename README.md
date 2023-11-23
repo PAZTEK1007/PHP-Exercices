@@ -1,4 +1,4 @@
-# PHP-Exercices
+# PHP Introduction Exercices
 Ce référentiel contient une collection d'exercices en PHP pour m'aider à pratiquer et à améliorer mes compétences en programmation PHP.
 
 ## Structure du référentiel
